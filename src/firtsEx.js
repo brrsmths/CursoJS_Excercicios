@@ -8,6 +8,6 @@ let litrosConsumidos = distanciaViagemEmKM / gastoMedio;
 let valorGasto = litrosConsumidos * precoCombustivel;
 
 //saída
-console.log(`O valor gasto em combustivel nesta viagem de ${distanciaViagemEmKM} KM, foi de R$${valorGasto}.`)
+console.log(`O valor gasto em combustivel nesta viagem de ${distanciaViagemEmKM} KM, foi de R$${valorGasto}.`);
 
 
