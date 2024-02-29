@@ -4,7 +4,6 @@ let altura = 1.84
 
 //logical process
 let imc = peso / Math.pow(altura, 2)
-console.log(imc)
 
 if (imc <= 18.4){
     console.log("Abaixo do peso")
